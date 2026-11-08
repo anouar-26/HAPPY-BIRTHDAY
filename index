@@ -169,7 +169,7 @@ footer {
 
   <p>To the most beautiful girl in my world ❤️</p>
 
-  <img src="images/samia5.jpeg"
+  <img src="samia5.jpeg"
        class="main-photo"
        alt="Beautiful birthday girl">
 
@@ -188,10 +188,10 @@ footer {
   <h2>My Beautiful Princess 🌹</h2>
 
   <div class="gallery">
-    <img src="images/samia1.jpeg" alt="Photo 1">
-    <img src="images/samia2.jpeg" alt="Photo 2">
-    <img src="images/samia3.jpeg" alt="Photo 3">
-    <img src="images/samia4.jpeg" alt="Photo 4">
+    <img src="samia1.jpeg" alt="Photo 1">
+    <img src="samia2.jpeg" alt="Photo 2">
+    <img src="samia3.jpeg" alt="Photo 3">
+    <img src="samia4.jpeg" alt="Photo 4">
   </div>
 
 </section>
